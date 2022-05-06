@@ -1,0 +1,16 @@
+body
+{
+    background-size:cover;
+}
+.name_of_object{
+    color: darkorange;
+}
+#p{
+    color:darkorange;
+}
+label{
+    color: cyan;
+}
+#IMAGE-RECONGNITION{
+    color: cornflowerblue;
+}
